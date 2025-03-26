@@ -1,0 +1,4 @@
+/transformer1/wandb/*
+/opensource+llm/modules/__pycache__/*
+/data/*
+/opensource/modules/__pycache__/*
